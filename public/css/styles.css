@@ -1,0 +1,76 @@
+body{
+  /*background: #eeeeee;*/
+    background-image: url("../images/fondo.jpg");
+}
+nav{
+    margin-bottom: 0;
+}
+.arriba{
+    margin-top: 20px;
+}
+.img-alcaldia{
+    width: 150px;
+}
+.navbar-default {
+    background-color: #6F7072;
+    border-bottom: solid 8px #FEBF00;
+}
+.navbar-default .navbar-nav>li>a{
+    color: white !important;
+}
+
+.navbar-default .navbar-brand {
+    background: #FEBF00;
+    color: #6F7072;
+    font-size: 20px !important;
+}
+.panel-default .panel-heading{
+    background: #FEBF00;
+    text-align: center;
+}
+.panel-default .panel-body{
+    background: #eeeeee;
+}
+.login-box,
+.register-box {
+    width: 360px;
+    margin: 7% auto;
+}
+.login-logo,
+.register-logo {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 300;
+}
+.login-logo a,
+.register-logo a {
+    color: #ffd203;
+}
+.login-box-body, .register-box-body {
+    background: #fff;
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #ffd203;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    background-color: rgba(254, 191, 0, 0.85);
+}
+#left-panel {
+    padding-top: 0 !important;
+}
+.img-alcaldia2{
+    padding-top: 150px;
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+#panel-alcaldia{
+    margin-top: 5%;
+}
+.textoHeader{
+    font-size: 16px;
+}
